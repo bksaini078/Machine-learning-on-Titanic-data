@@ -1,2 +1,4 @@
 # Machine learning on Titanic data 
- pyspark mllib machine learning code
+PYSPARK mllib machine learning code
+Basic procedure to learn about the machine learning using python . 
+Used Logistic regressiong 
